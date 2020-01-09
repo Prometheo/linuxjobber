@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def get_grading_parameters(request):
-    return HttpResponse("Welcome To my Django App")
+    return HttpResponse("Welcome To Django")
