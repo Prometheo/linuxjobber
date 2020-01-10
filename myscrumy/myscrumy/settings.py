@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'myscrumy.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': Scrum,
+        'NAME': 'Scrum',
         'USER': 'olaoyejnr',
         'PASSWORD': 'prometheus',
         'HOST': 'localhost',
