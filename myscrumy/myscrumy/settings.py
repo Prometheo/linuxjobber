@@ -85,7 +85,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': Scrum,
         'USER': 'olaoyejnr',
-        'PASSWORD': 'prometheus'
+        'PASSWORD': 'prometheus',
         'HOST': 'localhost',
         'PORT': '',
     }
